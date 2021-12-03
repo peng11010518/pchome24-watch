@@ -1,0 +1,15 @@
+{
+  "name": "pchome24-watch",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "repository": "git@github.com:peng11010518/pchome24-watch.git",
+  "author": "peng11010518 <peng11010518@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --experimental-modules --es-module-specifier-resolution=node main.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
